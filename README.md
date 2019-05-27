@@ -1,0 +1,1 @@
+# coverage-with-splat
